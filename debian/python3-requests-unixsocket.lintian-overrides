@@ -1,0 +1,4 @@
+python3-requests-unixsocket: copyright-without-copyright-notice
+python3-requests-unixsocket: initial-upload-closes-no-bugs
+python3-requests-unixsocket: no-manual-page
+python3-requests-unixsocket: zero-byte-file-in-doc-directory
