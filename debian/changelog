@@ -1,0 +1,5 @@
+python-requests-unixsocket (100:0.3.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/msabramo/requests-unixsocket/commit/8449bc0f76a2ce410644b5e8aab45829ddca54f7
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sat, 03 Feb 2024 19:33:27 +0800
