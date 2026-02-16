@@ -1,0 +1,4 @@
+python-requests-unixsocket source: file-without-copyright-information
+python-requests-unixsocket source: no-debian-changes
+python-requests-unixsocket source: source-contains-prebuilt-windows-binary
+python-requests-unixsocket source: source-package-encodes-python-version
